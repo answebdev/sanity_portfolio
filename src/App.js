@@ -1,25 +1,11 @@
-import logo from './logo.svg';
+import React from 'react';
 import './App.css';
 
-function App() {
-  return (
-    <div className="App">
-      <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Edit <code>src/App.js</code> and save to reload.
-        </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
-      </header>
-    </div>
-  );
-}
+// Video: https://www.youtube.com/watch?v=3HNyXCPDQ7Q
+// Code: https://github.com/adrianhajdin/project_professional_portfolio
+
+const App = () => {
+  return <h1>Sanity Portfolio</h1>;
+};
 
 export default App;

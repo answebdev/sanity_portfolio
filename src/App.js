@@ -6,6 +6,8 @@ import './App.scss';
 // Video: https://www.youtube.com/watch?v=3HNyXCPDQ7Q
 // Code: https://github.com/adrianhajdin/project_professional_portfolio
 
+// STOPPED AT: 1:32:20
+
 const App = () => {
   return (
     <div className='app'>

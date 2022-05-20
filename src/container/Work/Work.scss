@@ -10,7 +10,6 @@
   justify-content: flex-start;
   align-items: center;
   flex-wrap: wrap;
-
   margin: 4rem 0 2rem;
 
   .app__work-filter-item {
@@ -50,7 +49,6 @@
   .app__work-item {
     width: 270px;
     flex-direction: column;
-
     margin: 2rem;
     padding: 1rem;
     border-radius: 0.5rem;
@@ -80,7 +78,6 @@
 .app__work-img {
   width: 100%;
   height: 230px;
-
   position: relative;
 
   img {
@@ -104,7 +101,6 @@
   width: 100%;
   height: 100%;
   background-color: rgba(0, 0, 0, 0.5);
-
   border-radius: 0.5rem;
   opacity: 0;
   transition: all 0.3s ease;
@@ -115,7 +111,6 @@
     border-radius: 50%;
     background-color: rgba(0, 0, 0, 0.5);
     color: #fff;
-
     margin: 1rem;
     font-family: var(--font-base);
     font-weight: 800;
@@ -147,7 +142,6 @@
 
   .app__work-tag {
     position: absolute;
-
     padding: 0.5rem 1rem;
     border-radius: 10px;
     background-color: #fff;
